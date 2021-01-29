@@ -33,6 +33,7 @@
       "colors": {
         "primary": "#3E5902",
         "secondary": "#77A612",
+        "buttonColor": "#172601",
         "mainBg": "#1C1814",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
