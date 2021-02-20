@@ -28,7 +28,8 @@
     ],
     "external": [
       "https://aluraquiz-css.omariosouto.vercel.app/",
-      "https://alura-imersao-react-next.thamirysgardinalli.vercel.app/"
+      "https://alura-imersao-react-next.thamirysgardinalli.vercel.app/",
+      "https://aluraquiz-marvel.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
